@@ -1,2 +1,5 @@
 node_modules/
+<<<<<<< HEAD
 node_modules/
+=======
+>>>>>>> bf0e85f (Added .gitignore to ignore node_modules)
